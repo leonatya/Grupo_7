@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Projeto Final DS-PY-004
 
 Análise Exploratória — Votação por Seção (TSE 2022)
@@ -175,3 +176,8 @@ Para dúvidas sobre o projeto:
 Leonardo Rodrigues  - (21) 98121-6771
 Leonardo Antonio    - (34) 99269-7677
 Caryane Ribeiro     - (49) 98874-8042
+=======
+# Projeto de demonstração
+
+Aula 1 do módulo DS-PY-004.
+>>>>>>> 357acf1 (docs: adiciona README inicial do projeto)
